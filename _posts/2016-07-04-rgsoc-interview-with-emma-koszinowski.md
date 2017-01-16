@@ -3,8 +3,10 @@ title: RGSoC Interview with Emma Koszinowski
 layout: post
 ---
 
-This post was orginally posted on Rails Girs Summer of codes blog, written by Laura.
+This post was orginally posted on [Rails Girs Summer of codes blog](http://railsgirlssummerofcode.org/blog/2016-07-04-interview-with-emma-koszinowski), written by [Laura](https://twitter.com/@alicetragedy) and reposted here.
 
+----
+<br>
 
 Our next alumna (Class of 2015) is Emma Koszinowski, a Swede living in San Francisco. With a background in media production and IT and a bachelor in Social Science (focusing on how humans learn in digital environments), she took a leave of absence from her job as a maintenance manager at Stockholm university to study when her husband moved his company to San Francisco — and eventually left her job to make a career change. Her aim? Becoming a software developer.
 

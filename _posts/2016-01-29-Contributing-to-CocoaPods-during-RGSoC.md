@@ -1,9 +1,12 @@
 ---
 layout: post
-title:  "RGSoC"
+title:  "Contributing to CocoaPods during RGSoC"
 ---
 
-This post was originally posted on CocoaPods blog and reposted here. Written by Karla Sandoval and me.
+This post was originally posted on [CocoaPods blog](http://blog.cocoapods.org/RGSoC/) and reposted here. Written by Karla Sandoval and me about our expreience contributing to CocoaPods as part of [Rails Girls Summer of Code](http://railsgirlssummerofcode.org/) (RGSoC).
+
+----
+<br>
 
 During Summer 2015, we had the delightful opportunity to contribute to CocoaPods as part of Rails Girls Summer of Code (RGSoC). We were generously hosted and coached by GitHub. How did two newbie developers begin to work on open source, you might ask?
 

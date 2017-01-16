@@ -3,7 +3,10 @@ layout: post
 title:  "How to get involved in Open Source: Getting to know the core members of the CocoaPods community"
 ---
 
-This post was orginially posted on CocoaGems blog. 
+This post was orginially posted on [CocoaGems blog](http://cocoagems.github.io/blog/how-to-get-involved-in-open-source-getting-to-know-cocoapods/) written by me.
+
+---
+<br>
 
 <p class="intro"><span class="dropcap"></span>Before even having much experience with development it seemed to me that getting started with Open Source development is something
 that even experienced developer are slightly intimidated by. Therefore I want to share a  story of feeling extremely welcomed by the CocoaPods community.</p>
